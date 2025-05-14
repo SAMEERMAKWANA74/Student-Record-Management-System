@@ -27,7 +27,3 @@ A simple yet powerful Student Record Management System built using **Hibernate O
 | IntelliJ IDEA     | IDE used for development             |
 | Git & GitHub      | Version control and repository       |
 
----
-
-## 🗂️ Project Structure
-
